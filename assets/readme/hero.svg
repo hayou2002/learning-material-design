@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Learning Material Design</title>
+  <desc id="desc">以教育心理学组织学习内容、练习反馈和可读呈现。</desc>
+  <rect width="1200" height="430" rx="28" fill="#f3f4fa"/>
+  <text x="66" y="91" font-family="Segoe UI,Arial,sans-serif" font-size="27" fill="#5c6294">LEARNING MATERIAL DESIGN</text>
+  <text x="66" y="150" font-family="Microsoft YaHei,Segoe UI,sans-serif" font-size="42" font-weight="700" fill="#272d4d">从“看懂”走向“学会”</text>
+  <text x="66" y="193" font-family="Microsoft YaHei,Segoe UI,sans-serif" font-size="23" fill="#62677d">内容精加工优先，呈现与排版服务于理解</text>
+  <g font-family="Microsoft YaHei,Segoe UI,sans-serif" font-size="23" text-anchor="middle">
+    <rect x="68" y="251" width="218" height="84" rx="14" fill="#ffffff" stroke="#bcc0da"/>
+    <text x="177" y="286" fill="#353c67">目标与先备知识</text>
+    <text x="177" y="317" fill="#767b91" font-size="18">读者从哪里出发</text>
+    <rect x="357" y="251" width="218" height="84" rx="14" fill="#e4e6f5"/>
+    <text x="466" y="286" fill="#353c67">示例 · 练习 · 反馈</text>
+    <text x="466" y="317" fill="#62677d" font-size="18">让理解可被检验</text>
+    <rect x="646" y="251" width="218" height="84" rx="14" fill="#ffffff" stroke="#bcc0da"/>
+    <text x="755" y="286" fill="#353c67">阅读路径与呈现</text>
+    <text x="755" y="317" fill="#767b91" font-size="18">减少不必要负担</text>
+    <rect x="935" y="251" width="176" height="84" rx="14" fill="#d9e5d8"/>
+    <text x="1023" y="286" fill="#365c42">学会并迁移</text>
+    <text x="1023" y="317" fill="#56705d" font-size="18">不是仅看完</text>
+  </g>
+  <path d="M297 293H341M586 293H630M875 293H919" stroke="#8b91b6" stroke-width="3"/>
+</svg>
